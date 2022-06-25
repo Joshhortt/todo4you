@@ -9,6 +9,16 @@ html {
     color: #fff;
     padding: 10px;
   }
+
+  h2 {
+    margin: 15px;
+  }
+  
+
+  h4 {
+   margin: 30px;
+  }
+  
   
   .box {
     max-width: 400px;
@@ -32,6 +42,11 @@ html {
   
   .item:last-child {
     border-bottom: 0;
+  }
+
+  .about  {
+    margin: 80px;
+    font-size: 1.8rem;
   }
   
   input:checked+p {
@@ -93,4 +108,5 @@ html {
     color: white;
     text-align: center;
   }
-  
+
+
